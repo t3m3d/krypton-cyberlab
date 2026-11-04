@@ -1,1 +1,16 @@
-
+.DS_Store
+build/
+dist/
+*.kir
+web/node_modules/
+web/coverage/
+docs/native-dark-preview.png
+docs/native-light-preview.png
+docs/native-settings-preview.png
+docs/native-preview.png
+docs/verification.md
+docs/architecture.md
+site/lab.htk
+site/lab.html
+web/index.html
+/web
